@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ritwik Srivastava
-
-**Automation Consultant · Agentic AI Developer · RPA Architect · Mumbai, India**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0075D8&height=200&section=header&text=Ritwik%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Automation%20Consultant%20%C2%B7%20Agentic%20AI%20Developer%20%C2%B7%20RPA%20Architect&descAlignY=58&descSize=16" />
+</p>
 
 ![UiPath](https://img.shields.io/badge/UiPath-E85D04?style=flat&logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0075D8?style=flat&logo=microsoftpowerautomate&logoColor=white)
@@ -87,3 +87,7 @@ I bridge enterprise automation and agentic AI — building systems that don't ju
 ---
 
 *"Automating the mundane. Building the intelligent."* ✨
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0075D8,100:7C3AED&height=120&section=footer" />
+</p>
