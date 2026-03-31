@@ -62,7 +62,7 @@ I bridge enterprise automation and agentic AI — building systems that don't ju
 
 ## 📌 Featured Project
 
-### 🟢 [rag-sales-marketing-ai](https://github.com/ritwik-srivastava/rag-sales-marketing-ai)
+### 🟢 [rag-sales-marketing-ai](https://github.com/ritwiksrivastava31/rag-sales-marketing-ai)
 
 > Agentic AI assistant for B2B sales & marketing. Full RAG pipeline, AI lead scoring across 5 dimensions, outreach email generation, and a real-time Flask web UI with Server-Sent Events streaming.
 
