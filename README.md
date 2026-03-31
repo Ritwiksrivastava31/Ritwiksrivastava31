@@ -30,7 +30,7 @@ Automation Consultant with **5+ years** delivering RPA, AI, and low-code solutio
 I bridge enterprise automation and agentic AI — building systems that don't just follow rules, but think, plan, and act.
 
 - 🔭 **Working on:** Agentic AI sales & marketing automation  
-- 🏢 **Domains:** Banking · BFSI · Healthcare · Insurance  
+- 🏢 **Domains:** Finance · BFSI · Healthcare · Insurance  
 - 🛠 **Stack:** UiPath · Power Platform · Python · RAG · LLMs · MCP  
 - 📍 **Based in:** Mumbai, India  
 - 🌱 **Learning:** MCP servers · Claude AI · Agentic workflows  
