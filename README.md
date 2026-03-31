@@ -29,7 +29,7 @@ I bridge enterprise automation and agentic AI — building systems that don't ju
 
 ## 📊 Career Highlights
 
-| 🏆 5+ Years | 🤖 20+ Bots Built | 🛠 40+ Bots Supported | 🏅 4 Certifications |
+| 🏆 5+ Years | 🤖 60+ Bots Built | 🛠 40+ Bots Supported | 🏅 4 Certifications |
 |:-----------:|:-----------------:|:---------------------:|:-------------------:|
 | RPA Experience | Enterprise Automations | Global Support | Microsoft & UiPath |
 
@@ -41,7 +41,7 @@ I bridge enterprise automation and agentic AI — building systems that don't ju
 
 ![UiPath Studio](https://img.shields.io/badge/UiPath%20Studio-E85D04?style=flat&logo=uipath&logoColor=white)
 ![Orchestrator](https://img.shields.io/badge/Orchestrator-E85D04?style=flat&logo=uipath&logoColor=white)
-![Action Center](https://img.shields.io/badge/Action%20Center-E85D04?style=flat&logo=uipath&logoColor=white)
+![UiPath Agentic AI](https://img.shields.io/badge/Action%20Center-E85D04?style=flat&logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0075D8?style=flat&logo=microsoftpowerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-0EA5E9?style=flat&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0EA5E9?style=flat&logo=powerbi&logoColor=white)
