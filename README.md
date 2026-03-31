@@ -1,15 +1,13 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=160&section=header&text=Hi%20👋,%20I'm%20Ritwik%20Srivastava&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<!-- Premium Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7c3aed&height=140&section=header&text=Ritwik%20Srivastava&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <p align="center">
-  <b>Automation Consultant · Agentic AI Developer · RPA Architect · Mumbai, India</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Automation+Consultant+%7C+RPA+Architect;Agentic+AI+Developer;Building+Intelligent+Systems" />
 </p>
 
----
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Automation+%7C+AI+%7C+RPA;Building+Intelligent+Systems;Agentic+AI+Enthusiast" />
+  <b>Automation Consultant · Agentic AI Developer · RPA Architect</b><br/>
+  <sub>📍 Mumbai, India</sub>
 </p>
 
 ---
@@ -112,6 +110,3 @@ I bridge enterprise automation and agentic AI — building systems that don't ju
 ---
 
 <p align="center"><i>"Automating the mundane. Building the intelligent."</i> ✨</p>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer"/>
